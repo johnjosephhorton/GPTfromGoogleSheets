@@ -7,3 +7,4 @@ https://twitter.com/johnjhorton/status/1632911155806044160
 3. Add your OpenAI API key as a secret
 3. Modify the Javascript to point to your replit server 
 4. Call the function from Google Sheets
+5. Enjoy!
